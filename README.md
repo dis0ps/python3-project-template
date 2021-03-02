@@ -13,3 +13,9 @@ source ./venv/bin/activate
 pip install -r ./requirements.txt
 pip install -e .
 ```
+
+## Run Code
+
+```text
+python ./src/main.py
+```
